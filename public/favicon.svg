@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Warm background -->
+  <rect width="64" height="64" rx="14" fill="#1A0800"/>
+  
+  <!-- Flame glow -->
+  <ellipse cx="32" cy="22" rx="10" ry="12" fill="#FF6B00" opacity="0.3"/>
+  
+  <!-- Flame outer -->
+  <path d="M32 8 C28 14 24 18 26 24 C28 28 30 26 32 28 C34 26 36 28 38 24 C40 18 36 14 32 8Z" fill="#FF8C00"/>
+  
+  <!-- Flame middle -->
+  <path d="M32 12 C30 16 28 20 30 24 C31 26 32 25 32 26 C32 25 33 26 34 24 C36 20 34 16 32 12Z" fill="#FFB347"/>
+  
+  <!-- Flame inner bright -->
+  <path d="M32 16 C31 19 30 21 31 23 C31.5 24.5 32 24 32 25 C32 24 32.5 24.5 33 23 C34 21 33 19 32 16Z" fill="#FFF0A0"/>
+  
+  <!-- Wick -->
+  <rect x="31" y="26" width="2" height="8" rx="1" fill="#8B6914"/>
+  
+  <!-- Diya bowl top rim -->
+  <ellipse cx="32" cy="36" rx="14" ry="3.5" fill="#D4691A"/>
+  
+  <!-- Diya bowl body -->
+  <path d="M18 36 Q20 46 32 47 Q44 46 46 36Z" fill="#C8541A"/>
+  
+  <!-- Diya bowl highlight -->
+  <ellipse cx="32" cy="36" rx="12" ry="2.5" fill="#E8894A" opacity="0.7"/>
+  
+  <!-- Oil surface shine -->
+  <ellipse cx="32" cy="36" rx="8" ry="1.5" fill="#F5A060" opacity="0.5"/>
+  
+  <!-- Bottom of diya -->
+  <ellipse cx="32" cy="46" rx="10" ry="2" fill="#A84010"/>
+</svg>
