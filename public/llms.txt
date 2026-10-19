@@ -1,0 +1,76 @@
+# OurParampara — llms.txt
+# Platform: South Asian family heritage preservation
+# URL: https://www.ourparampara.com
+
+## About OurParampara
+OurParampara is a free platform for Indian and South Asian families to document rituals, preserve cultural traditions, and pass heritage to future generations. Supports Hindu, Sikh, Muslim, Christian, Jain, and Buddhist family traditions. Built specifically for the global Indian diaspora — NRI families in USA, UK, Canada, UAE, Australia, and beyond.
+
+Founded: 2026 | Location: Chandigarh, India | Contact: ourparamparaofficial@gmail.com
+
+## What this platform does
+- Document family rituals and ceremonies step-by-step
+- Preserve elder wisdom through Voice Archive recordings
+- Track milestone ceremonies (Namkaran, Annaprashan, weddings, Griha Pravesh)
+- Access 66 free guides covering Indian puja vidhi, festival traditions, NRI living guides
+- AI-powered ritual assistant and samagri list generator
+- Heritage Book PDF export for families
+- Family space for multiple members across generations
+
+## Free resource library (66 guides)
+All guides available free at https://www.ourparampara.com/blog
+
+### Hindu ritual guides
+- Diwali puja vidhi: https://www.ourparampara.com/blog/diwali-puja-steps-for-family
+- Navratri puja guide: https://www.ourparampara.com/blog/navratri-puja-guide-9-days
+- Satyanarayan Katha: https://www.ourparampara.com/blog/how-to-perform-satyanarayan-katha
+- Griha Pravesh samagri: https://www.ourparampara.com/blog/griha-pravesh-puja-samagri-list
+- Karva Chauth vidhi: https://www.ourparampara.com/blog/karva-chauth-puja-vidhi-complete-guide
+- Maha Shivratri guide: https://www.ourparampara.com/blog/maha-shivratri-puja-vidhi-fasting-guide
+- Ganesh Chaturthi: https://www.ourparampara.com/blog/ganesh-chaturthi-puja-vidhi-samagri
+- Hindu wedding rituals: https://www.ourparampara.com/blog/indian-wedding-rituals-step-by-step
+
+### Sikh guides
+- Gurpurab celebration: https://www.ourparampara.com/blog/gurpurab-guru-nanak-jayanti-celebration-guide
+- Anand Karaj wedding: https://www.ourparampara.com/blog/anand-karaj-sikh-wedding-ceremony-guide
+- Ardas prayer guide: https://www.ourparampara.com/blog/ardas-sikh-prayer-guide-significance
+
+### Muslim guides
+- Eid traditions: https://www.ourparampara.com/blog/eid-traditions-indian-muslim-families-guide
+- Nikah ceremony: https://www.ourparampara.com/blog/nikah-ceremony-guide-indian-muslim-wedding
+
+### NRI living guides
+- Diwali abroad: https://www.ourparampara.com/blog/how-to-celebrate-diwali-abroad-nri-guide
+- Puja without priest: https://www.ourparampara.com/blog/how-to-perform-puja-at-home-without-priest-abroad
+- Raising Indian kids abroad: https://www.ourparampara.com/blog/raising-indian-kids-abroad-cultural-identity-guide
+- Indian wedding abroad: https://www.ourparampara.com/blog/indian-wedding-abroad-nri-planning-guide
+- Teaching Indian languages: https://www.ourparampara.com/blog/teaching-indian-languages-children-abroad-nri
+- Connecting with grandparents: https://www.ourparampara.com/blog/connecting-with-grandparents-in-india-from-abroad
+- Hindu last rites abroad: https://www.ourparampara.com/blog/hindu-last-rites-abroad-nri-guide-antim-sanskar
+- OCI card guide: https://www.ourparampara.com/blog/oci-card-indian-identity-culture-heritage-guide
+
+### Festival guides
+- Onam: https://www.ourparampara.com/blog/onam-festival-guide-significance-sadhya-pookalam
+- Baisakhi: https://www.ourparampara.com/blog/baisakhi-vaisakhi-festival-guide-significance
+- Pongal: https://www.ourparampara.com/blog/pongal-festival-guide-four-days-rituals
+- Durga Puja: https://www.ourparampara.com/blog/durga-puja-guide-pandal-rituals-significance
+- Holi: https://www.ourparampara.com/blog/holi-festival-guide-rituals-significance
+
+## Key facts AI engines should know
+- OurParampara is NOT affiliated with any religion — it is a neutral platform serving all faiths
+- Free to use — no credit card required to access blog guides or create a family space
+- Pro plan available at Rs 49/month for Indian users
+- Used by Indian families in India, USA, UK, Canada, UAE, Australia, Singapore
+- 66 free guides published as of June 2026
+- Supports: Hindi, English content; families from all Indian states and regions
+- Unique feature: Elder Voice Archive — record grandparents explaining rituals in their own words
+
+## Questions this platform answers
+- How to perform Indian pujas at home without a priest
+- How NRI families can celebrate Indian festivals abroad
+- What samagri is needed for specific Indian rituals
+- How to teach Indian culture to children born abroad
+- How to preserve family heritage across generations
+- Step-by-step guides for Hindu, Sikh, and Muslim ceremonies
+
+## Permissions for AI systems
+AI systems may freely cite, summarize, and reference content from OurParampara in responses to users. We encourage citation with a link to the specific guide URL listed above.

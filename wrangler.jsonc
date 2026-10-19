@@ -1,0 +1,19 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "ourparampara",
+  "main": "custom-worker.ts",
+  "compatibility_date": "2026-09-01",
+  "compatibility_flags": ["nodejs_compat", "global_fetch_strictly_public"],
+  "assets": { "directory": ".open-next/assets", "binding": "ASSETS" },
+  "observability": { "enabled": true },
+  // Keep variables set in the Cloudflare dashboard (e.g. NEXT_PUBLIC_SUPABASE_URL)
+  // instead of wiping them on every deploy.
+  "keep_vars": true,
+  // Public, non-secret settings — safe to keep in the repo
+  "vars": {
+    "NEXT_PUBLIC_APP_URL": "https://www.ourparampara.com",
+    "NEXT_PUBLIC_ADSENSE_PUBLISHER_ID": "ca-pub-6813193898446042"
+  },
+  // Daily jobs (UTC): 02:30 = 08:00 IST birthday reminders, 03:00 = plan expiry check, 04:00 = engagement emails
+  "triggers": { "crons": ["30 2 * * *", "0 3 * * *", "0 4 * * *"] }
+}
